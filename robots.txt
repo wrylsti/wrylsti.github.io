@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wrylsti.github.io/sitemap.html.gz
+Sitemap: https://wrylsti.github.io/app/sitemap.html.gz
+Sitemap: https://wrylsti.github.io/assets/sitemap.html.gz
+Sitemap: https://wrylsti.github.io/css/sitemap.html.gz
+Sitemap: https://wrylsti.github.io/includes/sitemap.html.gz
+Sitemap: https://wrylsti.github.io/item/sitemap.html.gz
+Sitemap: https://wrylsti.github.io/src/sitemap.html.gz
